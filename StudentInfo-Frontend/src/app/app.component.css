@@ -1,0 +1,28 @@
+.icon-red {
+    color: red;
+  }
+
+  .icon-red:hover {
+    color: white;
+  }
+
+.icon-pen {
+    color: white;
+}
+.icon-pen:hover {
+    color: greenyellow;
+}
+
+.backg{
+    background-color:rgb(4, 84, 123);
+    top:0;
+    margin: 0 auto; 
+    width: 100%;
+    position:absolute;         
+}
+
+.container{
+    top: 80;
+    position:relative; 
+}
+
